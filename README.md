@@ -1,7 +1,7 @@
 
 # author: YSK
 # python 3.6
-
+## rasa run -m models — enable-api — cors “*” –-debug
 * ref:
 
 1.https://github.com/JiteshGaikwad/Rasa_CustomUI-v_2.0 <br/> <br/>
